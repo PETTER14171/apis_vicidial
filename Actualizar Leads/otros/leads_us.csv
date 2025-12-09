@@ -1,0 +1,11 @@
+VENDOR LEAD CODE,SOURCE ID,PHONE NUMBER,PHONE CODE,TITLE,FIRST NAME,MIDDLE INITIAL,LAST NAME,ADDRESS1,ADDRESS2,ADDRESS3,CITY,STATE,PROVINCE,POSTAL CODE,COUNTRY CODE,GENDER,DATE OF BIRTH,ALT PHONE,EMAIL,SECURITY PHRASE,COMMENTS,RANK,OWNER,CREATED AT DATE,HOPPER PRIORITY,ADD TO HOPPER,DESIRED STATUS
+VLC1001,SRC1001,2125557834,1,MR,John,D,Miller,120 5th Ave,Apt 3,Manhattan,New York,TX,-,10011,US,M,23/06/1985,9175554478,john.miller@example.com,Cloud,Interested in demo,7,CST,10/08/2024,10,Y,NEW
+VLC1002,SRC1002,3055559921,1,MRS,Emily,R,Johnson,440 Ocean Dr,Unit 2,South Beach,Miami,TX,-,33139,US,F,12/04/1991,7865551222,emily.johnson@example.com,Sky,Requested callback,8,CST,25/05/2023,9,Y,PENDING
+VLC1003,SRC1003,6175558804,1,MR,David,P,Roberts,88 Beacon St,Floor 5,Downtown,Boston,MO,-,2108,US,M,17/02/1987,8575553344,david.roberts@example.com,Wave,Follow-up scheduled,6,CST,03/11/2022,8,Y,ACTIVE
+VLC1004,SRC1004,7185552290,1,MS,Olivia,K,Torres,57 Elm St,Ste 100,Brooklyn,New York,LA,-,11201,US,F,29/11/1990,6465557723,olivia.torres@example.com,Rain,Confirmed appointment,9,CST,21/09/2025,7,Y,CONFIRMED
+VLC1005,SRC1005,4105556612,1,MR,Brian,J,Cooper,12 Harbor Rd,Apt 6B,Inner Harbor,Baltimore,OK,-,21202,US,M,10/08/1982,4435551199,brian.cooper@example.com,River,High-value client,10,CST,16/12/2021,6,Y,NEW
+VLC1006,SRC1006,2145559923,1,MR,Daniel,C,Anderson,99 Maple Ave,Suite 200,Downtown,Dallas,NY,-,75201,US,M,03/03/1984,9725558741,daniel.anderson@example.com,Stone,Interested in package,7,EST,08/04/2025,5,N,NEW
+VLC1007,SRC1007,7135557744,1,MRS,Sarah,L,Ramirez,1800 Main St,Apt 12,Midtown,Houston,FL,-,77002,US,F,26/09/1992,8325556654,sarah.ramirez@example.com,Sky,Awaiting feedback,8,EST,04/02/2023,4,N,ACTIVE
+VLC1008,SRC1008,3145558821,1,MR,Matthew,T,Brooks,230 Pine St,Unit 5,Clayton,St. Louis,MA,-,63105,US,M,07/12/1986,6365551299,matthew.brooks@example.com,Cloud,Requested information,6,EST,30/09/2024,3,N,PENDING
+VLC1009,SRC1009,5045556610,1,MS,Amanda,A,Lee,77 Bayou Rd,Apt 9,French Quarter,New Orleans,NY,-,70116,US,F,14/07/1993,9855557723,amanda.lee@example.com,Luna,Follow-up next week,9,EST,19/06/2022,2,N,ACTIVE
+VLC1010,SRC1010,4055553498,1,MR,Justin,N,Walker,88 Oakwood Dr,Unit 8,Central,Oklahoma City,MD,-,73102,US,M,05/01/1989,9185556677,justin.walker@example.com,Sun,Confirmed for meeting,10,EST,27/10/2023,1,N,CONFIRMED
